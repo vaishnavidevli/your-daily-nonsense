@@ -71,5 +71,4 @@ Gamified progress tracking:
 
 ---
 
-## 📂 Project Structure
 
