@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+.question-page {
+  padding: 2rem;
+  font-family: 'IM Fell English SC', serif;
+  background-color: rgba(248, 228, 179, 0.95); /* parchment tone */
+  color: #4b2e20;
+  text-align: center;
+  border: 2px solid #a87629;
+  border-radius: 12px;
+  max-width: 800px;
+  margin: 2rem auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.question-page h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #5b341f;
+  text-shadow: 1px 1px #fdf1d6;
+}
+
+.description {
+  background-color: #fffbe8;
+  padding: 1rem;
+  border: 1px solid #a87629;
+  border-radius: 8px;
+  margin-top: 1rem;
+  font-size: 1.15rem;
+  line-height: 1.5;
+  color: #3d2b1f;
+  text-align: left;
+}
+
+.meta {
+  margin-top: 1.5rem;
+  font-size: 0.95rem;
+  color: #7a5638;
+  font-style: italic;
+}
