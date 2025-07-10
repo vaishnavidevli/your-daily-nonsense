@@ -71,4 +71,12 @@ Gamified progress tracking:
 
 ---
 
+<img width="1894" height="817" alt="image" src="https://github.com/user-attachments/assets/8125bd96-a9c9-4abe-86af-63b7ed424805" />
 
+<img width="1036" height="454" alt="image" src="https://github.com/user-attachments/assets/31ecebad-5209-49c9-b928-f5311fd67566" />
+
+<img width="1852" height="795" alt="image" src="https://github.com/user-attachments/assets/7db16ddf-b173-4980-83aa-22b43e275c4e" />
+
+<img width="1879" height="790" alt="image" src="https://github.com/user-attachments/assets/9ba3f63f-b797-44d5-8a1c-6ba6032b2388" />
+
+<img width="1774" height="781" alt="image" src="https://github.com/user-attachments/assets/4c0dc378-c750-41ce-9d9b-e5c5c223dc93" />
